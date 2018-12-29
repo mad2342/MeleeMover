@@ -7,7 +7,6 @@ namespace MeleeMover
 {
     public static class ReflectionHelper
     {
-
         public static object InvokePrivateMethode(object instance, string methodname, object[] parameters)
         {
             Type type = instance.GetType();
