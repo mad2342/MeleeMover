@@ -6,4 +6,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("MeleeMover")]
 [assembly: ComVisible(false)]
 [assembly: Guid("0D62834E-ACAD-472F-8A74-3E3B06D6643E")]
-[assembly: AssemblyVersion("1.3.2.*")]
+[assembly: AssemblyVersion("1.5.0.*")]
